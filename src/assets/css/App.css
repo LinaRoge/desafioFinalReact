@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.imagen {
+  width: 200px;
+  left: 250px;
+}
+
+.infoCard {
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 1000px;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  width: 300px;
+  margin: 20px;
+  height: 25px;
+}
